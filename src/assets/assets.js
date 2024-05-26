@@ -38,9 +38,14 @@ import img13 from './img13.jpg'
 import img14 from './img14.jpg'
 import img15 from './img15.jpg'
 import img16 from './img16.jpg'
-import song1 from  './song1.mp3'
+import song1 from  './song1.flac'
 import song2 from  './song2.mp3'
 import song3 from  './song3.mp3'
+import song4 from  './song4.flac'
+import song5 from  './song5.flac'
+import song6 from  './song6.flac'
+import song7 from  './song7.flac'
+import song8 from  './song8.flac'
 
 export const assets = {
     bell_icon,
@@ -117,66 +122,66 @@ export const albumsData = [
 export const songsData = [
     {
         id:0,
-        name: "Song One",
+        name: "Ijazzat Hai",
         image: img1,
         file:song1,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Artist: Raj Barman, Sachin Gupta, Kumaar",
         duration:"3:00"
     },
     {
         id:1,
-        name: "Song Two",
+        name: "Sachha Ishq",
         image: img2,
         file:song2,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Singer: Nikhil Verma",
         duration:"2:20"
     },
     {
         id:2,
-        name: "Song Three",
+        name: "Top 10 best Songs of Zehar Vibe",
         image: img3,
         file:song3,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Zehr Vibe All Hits Songs ｜ Zehr Vibe All Hits Punjabi Songs ｜ Zehr Vibe New Audio Jukebox",
         duration:"2:32"
     },
     {
         id:3,
-        name: "Song Four",
+        name: "Gall Khaas",
         image: img4,
-        file:song1,
-        desc:"Put a smile on your face with these happy tunes",
+        file:song4,
+        desc:"Artist: Zehr Vibe",
         duration:"2:50"
     },
     {
         id:4,
-        name: "Song Five",
+        name: "Aansu",
         image: img5,
-        file:song2,
-        desc:"Put a smile on your face with these happy tunes",
+        file:song5,
+        desc:"Artist: Pallavi Paranjape, Karthik Rao",
         duration:"3:10"
     },
     {
         id:5,
-        name: "Song Six",
+        name: "Milte Raho",
         image: img14    ,
-        file:song3,
-        desc:"Put a smile on your face with these happy tunes",
+        file:song6,
+        desc:"Artist: Vaibhav Bundhoo",
         duration:"2:45"
     },
     {
         id:6,
-        name: "Song Seven",
+        name: "Dhundhla",
         image: img7,
-        file:song1,
-        desc:"Put a smile on your face with these happy tunes",
+        file:song7,
+        desc:" Dino James",
         duration:"2:18"
     },
     {
         id:7,
-        name: "Song Eight",
+        name: "Bana Hi Nahi Tha",
         image: img12,
-        file:song2,
-        desc:"Put a smile on your face with these happy tunes",
+        file:song8,
+        desc:"Artist: Dino James, Bluish Music",
         duration:"2:35"
     }
 ]
