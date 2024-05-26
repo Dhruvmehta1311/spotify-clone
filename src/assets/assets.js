@@ -163,7 +163,7 @@ export const songsData = [
     {
         id:5,
         name: "Milte Raho",
-        image: img14    ,
+        image: img6    ,
         file:song6,
         desc:"Artist: Vaibhav Bundhoo",
         duration:"2:45"
