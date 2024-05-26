@@ -138,7 +138,7 @@ export const songsData = [
     },
     {
         id:2,
-        name: "Top 10 best Songs of Zehar Vibe",
+        name: "Zehr Vibes Best Songs",
         image: img3,
         file:song3,
         desc:"Zehr Vibe All Hits Songs ｜ Zehr Vibe All Hits Punjabi Songs ｜ Zehr Vibe New Audio Jukebox",
